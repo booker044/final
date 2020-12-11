@@ -11,4 +11,4 @@ I played at St. Charles Community College for two years. This was a great place 
 My coach did not know where to put me and this resulted in me playing everywhere on the field. I finally found a sweet spot in defense. This is where I would go up against people that were a lot bigger than me.
 I am not the biggest person and going against all these bigger players it made me realise that I had to bully them off the ball and be faster and stronger.
 I used all this to my advantage and did well considering my size. This is what I enjoy most. I enjoy playing sports and competing against other people.
-![Me](10598210_1fd9466ad541499180116a758142c4fc.jpg)
+![Me](https://www.hudl.com/profile/10598210/Jacob-Booker)
