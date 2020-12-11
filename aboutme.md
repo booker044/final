@@ -13,7 +13,7 @@ it is very hard to determine where you want to go in life through one major. I f
 through so many majors I have see what each are like and I know what I like best about my major.
 
 I have made some code in the time that I have learned it.
-**This is code for an advanced calulator in Python.**
+**This is code for an advanced calulator in Python.** I used this as a guide. [video](https://www.youtube.com/watch?v=62Rbtc5gpsw)
 
 'num1 = float(input("Enter First Number: "))
 op = print("Enter operater: ")
